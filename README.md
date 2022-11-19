@@ -9,7 +9,7 @@ News Tracker Application
 # Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   |    **Sivaprakash**   |
+| Team Leader   |    **Sivaprakash N**   |
 | Team Member 1 |   **Prem**  |
 | Team Member 2 |  **Sathya Prabhu**  |
 | Team Member 3 | **Siva** |
